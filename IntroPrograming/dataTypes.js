@@ -9,7 +9,7 @@ const person = {
     age : 31
 }
 
-console.log(message)
+console.log(message) // type of > untuk mengetahui tipe var
 console.log(count)
 console.log(bigNumber)
 console.log(isTrue)

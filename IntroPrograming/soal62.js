@@ -16,8 +16,8 @@ console.log ({
 
 // Write a code to get difference between dates in days.
 
-const date1 = new Date ("2022-01-20")
-const date2 = new Date ("2022-01-22")
-const diff = (date2 - date1) / (60 * 60 * 24 * 1000)
+// const date1 = new Date ("2022-01-20")
+// const date2 = new Date ("2022-01-22")
+// const diff = (date2 - date1) / (60 * 60 * 24 * 1000)
 
-console.log(diff)
+// console.log(diff)

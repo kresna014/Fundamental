@@ -1,4 +1,5 @@
-// SOAL 6 
+// Write a code to convert days to years
+// months and days (Notes: 1 year : 365 days, 1 month : 30 days).
 
 const day1 = 400
 const day2 = 366
@@ -11,4 +12,5 @@ let days2 = day2-365
 
 console.log("example 1: " + Math.floor(year1) + "year," + Math.floor(month1) + "month, " + days1 + "days")
 console.log("example 1: " + Math.floor(year2) + "year," + Math.floor(month2) + "month, " + days2 + "days")
+
 

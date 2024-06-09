@@ -26,3 +26,10 @@ console.log(pesan)
 a = 123
 console.log(a)
 
+let kata1 = "abc" 
+kata1 = "def" // jika pake const akan eror karena berbeda var
+
+let Kata1 // ini  menjadi var berbeda karena "K" capital
+console.log(kata1)
+
+// let var > tidak bisa terpakai karena sama2 syntax js 

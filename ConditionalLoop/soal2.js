@@ -14,12 +14,14 @@ else {
 
 // lecture
 
-let n = 2
+let n = 25
 
 if (n % 2 == 1) {
-    console.log(`${n} is odd number`)
+    console.log(`${n} is odd number`) // ganjil
 } else {
-    console.log(`${n} is even number`)
+    console.log(`${n} is even number`) // genap
 }
+
+// tenary
 
 console.log(n % 2 == 1 ? `${n} is odd number` : `${n} is even number`)

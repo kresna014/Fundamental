@@ -1,3 +1,5 @@
+// Write a code to convert celsius to fahrenheit
+
 let c = 60;
 
 let f = (c * (9 / 5)) + 32;
